@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="background" id="0x7f020000" />
+    <public type="drawable" name="btn_keyboard_key_func_normal" id="0x7f020001" />
+    <public type="drawable" name="btn_keyboard_key_func_pressed" id="0x7f020002" />
+    <public type="drawable" name="btn_keyboard_key_normal" id="0x7f020003" />
+    <public type="drawable" name="btn_keyboard_key_normal_off" id="0x7f020004" />
+    <public type="drawable" name="btn_keyboard_key_normal_on" id="0x7f020005" />
+    <public type="drawable" name="btn_keyboard_key_pressed" id="0x7f020006" />
+    <public type="drawable" name="btn_keyboard_key_pressed_off" id="0x7f020007" />
+    <public type="drawable" name="btn_keyboard_key_pressed_on" id="0x7f020008" />
+    <public type="drawable" name="keyboard_key_feedback_background" id="0x7f02000a" />
+    <public type="drawable" name="keyboard_popup_panel_background" id="0x7f02000b" />
+    <public type="drawable" name="keyboard_suggest_strip" id="0x7f02000c" />
+    <public type="drawable" name="preview_img" id="0x7f02000d" />
+    <public type="drawable" name="sym_keyboard_delete" id="0x7f02000e" />
+    <public type="drawable" name="sym_keyboard_mic" id="0x7f02000f" />
+    <public type="drawable" name="sym_keyboard_return" id="0x7f020010" />
+    <public type="drawable" name="sym_keyboard_search" id="0x7f020011" />
+    <public type="drawable" name="sym_keyboard_setup" id="0x7f020012" />
+    <public type="drawable" name="sym_keyboard_shift" id="0x7f020013" />
+    <public type="drawable" name="sym_keyboard_shift_locked" id="0x7f020014" />
+    <public type="drawable" name="topmenu_voice" id="0x7f020016" />
+    <public type="color" name="candidate_normal" id="0x7f030000" />
+    <public type="color" name="keyTextColor" id="0x7f030001" />
+    <public type="color" name="key_preview_text_color" id="0x7f030002" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="ime_name" id="0x7f040001" />
+    <public type="string" name="no_main_prog_found" id="0x7f040002" />
+</resources>

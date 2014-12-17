@@ -1,0 +1,8 @@
+<resources>
+    <style name="KKThemeLight" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/KKThemeLight.KKActionBar</item>
+    </style>
+    <style name="KKThemeLight.KKActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/kk_theme_light_action_bar_blue</item>
+    </style>
+</resources>

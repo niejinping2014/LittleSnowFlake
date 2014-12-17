@@ -1,0 +1,5 @@
+.idea/
+gen/
+proguard_logs/
+bin/
+production/
